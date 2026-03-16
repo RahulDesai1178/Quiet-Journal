@@ -1,0 +1,4 @@
+[project]
+name = "mindpulse-agent"
+version = "0.1.0"
+dependencies = ["railtracks", "fastapi", "uvicorn", "python-dotenv"]
