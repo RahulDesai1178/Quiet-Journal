@@ -1,8 +1,8 @@
-# MindPulse
+# Quiet Journal
 
 > Built with [Railtracks](https://railtracks.ai)
 
-MindPulse is an AI-powered journaling app that listens between the lines. Users write freely — and when the app detects a pattern of struggle across multiple entries, it proactively surfaces real, nearby Toronto therapists and mental health resources. No prompting required. The agent notices. The agent acts.
+Quiet Journal is an AI-powered journaling app that listens between the lines. Users write freely — and when the app detects a pattern of struggle across multiple entries, it proactively surfaces real, nearby Toronto therapists and mental health resources. No prompting required. The agent notices. The agent acts.
 
 Built for:
 - **Sun Life** — Best Health Care Hack Using Agentic AI
